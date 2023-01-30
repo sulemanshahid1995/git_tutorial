@@ -1,0 +1,7 @@
+donottrack.rtf 
+.DS_Store
+/figures
+*.log
+#output files
+/data
+*.pdf 
